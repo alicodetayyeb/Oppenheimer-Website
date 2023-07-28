@@ -1,0 +1,41 @@
+body{
+    margin: 80px;
+    background-image: url(MtRedoubtedit1.jpg);
+    background-size: cover;
+    font-size: 20px;
+    text-align: center;
+    font-weight: normal;
+    margin-top: 50px;
+    font-style: oblique;
+}
+.b1{
+    margin-top: 15px;
+    margin-bottom: 150px;
+}
+button{
+    font-weight: lighter;
+    font-style: oblique;
+    height: 40px;
+    background-color: rgb(85, 64, 20);
+    color: rgb(254, 181, 72);
+    text-align: center;
+    border-radius: 100px;
+}
+.info{
+    margin-top: -110px;
+color: rgb(46, 45, 8);
+text-align: center;
+}
+input{
+    margin-top: 50px;
+    width: 250px;
+    border-radius: 30px;
+}
+.tab{
+   text-align: center;
+    margin-left: 800px;
+    background-color: rgb(250, 235, 215);
+    border: 4px dotted black;
+    border-radius: 25px;
+    padding: 25px;
+}

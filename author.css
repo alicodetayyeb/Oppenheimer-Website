@@ -1,0 +1,20 @@
+.inner{
+    border-radius: 50px;
+    padding: 100px;
+    text-align: center;
+    background-color: rgb(90, 77, 15);
+    color: rgb(8, 168, 217);
+    
+}    margin: 0px;
+    background-image: image(MtRedoubtedit1);
+}
+h1{
+    -webkit-text-stroke: 2px black;
+}
+body{
+    background-image: url(MtRedoubtedit1.jpg);
+    background-size: cover;
+    padding: 75px;
+    padding-left: 170;
+    padding-right: 170;
+}

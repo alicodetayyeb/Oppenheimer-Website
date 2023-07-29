@@ -27,9 +27,14 @@ color: rgb(46, 45, 8);
 text-align: center;
 }
 input{
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-top: 50px;
     width: 250px;
     border-radius: 30px;
+    border-color: white;
+    border: 0px;
 }
 .tab{
    text-align: center;
